@@ -70,7 +70,6 @@ class ComfyuiSD(pybox_comfyui.ComfyUIBaseClass):
     workflow_pos_prompt_idx = -1
     workflow_neg_prompt_idx = -1
     workflow_latent_img_idx = -1
-    workflow_save_exr_result_idx = -1
     
     
     ##########################################################################
